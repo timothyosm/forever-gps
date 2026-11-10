@@ -1,0 +1,1492 @@
+{
+  "clientBuild": "1.60.1.70862",
+  "liveGameVerified": false,
+  "scope": "All 55 playable zone-map IDs in the installed client; sampled terrain routes inside native map bounds. Zephras has two aliases.",
+  "maps": [
+    {
+      "id": 1411,
+      "name": "Durotar",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -672.9166666666661,
+          "k": 1087,
+          "z": 38,
+          "class": 1,
+          "component": 4,
+          "y": -4264.583333333334
+        },
+        {
+          "map": 1,
+          "x": -622.9166666666661,
+          "k": 1087,
+          "z": 38,
+          "class": 1,
+          "component": 4,
+          "y": -4264.583333333334
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1412,
+      "name": "Mulgore",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -3543.75,
+          "k": 847,
+          "z": 228,
+          "class": 0,
+          "component": 4,
+          "y": -1068.750000000001
+        },
+        {
+          "map": 1,
+          "x": -3593.75,
+          "k": 848,
+          "z": 224,
+          "class": 0,
+          "component": 4,
+          "y": -1064.583333333334
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1413,
+      "name": "The Barrens",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -3197.916666666666,
+          "k": 895,
+          "z": 92,
+          "class": 1,
+          "component": 4,
+          "y": -2047.916666666667
+        },
+        {
+          "map": 1,
+          "x": -3197.916666666666,
+          "k": 895,
+          "z": 94,
+          "class": 0,
+          "component": 4,
+          "y": -1993.750000000001
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1416,
+      "name": "Alterac Mountains",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": 531.2499999999982,
+          "k": 702,
+          "z": 164,
+          "class": 1,
+          "component": 0,
+          "y": -739.583333333333
+        },
+        {
+          "map": 0,
+          "x": 535.4166666666661,
+          "k": 725,
+          "z": 180,
+          "class": 1,
+          "component": 0,
+          "y": -597.9166666666661
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": 1417,
+      "name": "Arathi Highlands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -2310.416666666668,
+          "k": 581,
+          "z": 0,
+          "class": 0,
+          "component": 0,
+          "y": -3735.4166666666665
+        },
+        {
+          "map": 0,
+          "x": -2135.416666666668,
+          "k": 581,
+          "z": 160,
+          "class": 0,
+          "component": 0,
+          "y": -3735.4166666666665
+        }
+      ],
+      "points": 77
+    },
+    {
+      "id": 1418,
+      "name": "Badlands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -6960.416666666668,
+          "k": 374,
+          "z": 346,
+          "class": 0,
+          "component": 1255,
+          "y": -3735.4166666666665
+        },
+        {
+          "map": 0,
+          "x": -6935.416666666668,
+          "k": 374,
+          "z": 346,
+          "class": 0,
+          "component": 1255,
+          "y": -3827.0833333333335
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1419,
+      "name": "Blasted Lands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -11197.916666666668,
+          "k": 215,
+          "z": 6,
+          "class": 1,
+          "component": 0,
+          "y": -3022.916666666667
+        },
+        {
+          "map": 0,
+          "x": -11197.916666666668,
+          "k": 215,
+          "z": 8,
+          "class": 0,
+          "component": 0,
+          "y": -3114.583333333333
+        }
+      ],
+      "points": 6
+    },
+    {
+      "id": 1420,
+      "name": "Tirisfal Glades",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": 1689.583333333334,
+          "k": 771,
+          "z": 40,
+          "class": 1,
+          "component": 0,
+          "y": -535.4166666666661
+        },
+        {
+          "map": 0,
+          "x": 1743.7499999999982,
+          "k": 771,
+          "z": 38,
+          "class": 0,
+          "component": 0,
+          "y": -535.4166666666661
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1421,
+      "name": "Silverpine Forest",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -531.25,
+          "k": 682,
+          "z": 90,
+          "class": 1,
+          "component": 0,
+          "y": 727.083333333333
+        },
+        {
+          "map": 0,
+          "x": -531.25,
+          "k": 682,
+          "z": 88,
+          "class": 0,
+          "component": 0,
+          "y": 677.0833333333339
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1422,
+      "name": "Western Plaguelands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": 1064.583333333334,
+          "k": 724,
+          "z": 64,
+          "class": 1,
+          "component": 0,
+          "y": -1397.916666666667
+        },
+        {
+          "map": 0,
+          "x": 1064.583333333334,
+          "k": 724,
+          "z": 64,
+          "class": 1,
+          "component": 0,
+          "y": -1347.916666666667
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1423,
+      "name": "Eastern Plaguelands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": 1497.916666666666,
+          "k": 738,
+          "z": 132,
+          "class": 1,
+          "component": 0,
+          "y": -5868.75
+        },
+        {
+          "map": 0,
+          "x": 1439.583333333334,
+          "k": 738,
+          "z": 132,
+          "class": 0,
+          "component": 0,
+          "y": -5868.75
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1424,
+      "name": "Hillsbrad Foothills",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -589.5833333333339,
+          "k": 659,
+          "z": 82,
+          "class": 1,
+          "component": 0,
+          "y": 535.416666666667
+        },
+        {
+          "map": 0,
+          "x": -535.4166666666679,
+          "k": 659,
+          "z": 80,
+          "class": 0,
+          "component": 0,
+          "y": 535.416666666667
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1425,
+      "name": "The Hinterlands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -535.4166666666679,
+          "k": 650,
+          "z": 216,
+          "class": 1,
+          "component": 2063,
+          "y": -4139.583333333334
+        },
+        {
+          "map": 0,
+          "x": -535.4166666666679,
+          "k": 650,
+          "z": 216,
+          "class": 0,
+          "component": 2063,
+          "y": -4181.25
+        }
+      ],
+      "points": 3
+    },
+    {
+      "id": 1426,
+      "name": "Dun Morogh",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -5868.750000000002,
+          "k": 424,
+          "z": 402,
+          "class": 1,
+          "component": 0,
+          "y": -2002.083333333333
+        },
+        {
+          "map": 0,
+          "x": -5868.750000000002,
+          "k": 424,
+          "z": 402,
+          "class": 0,
+          "component": 0,
+          "y": -2039.583333333333
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1427,
+      "name": "Searing Gorge",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -7527.083333333334,
+          "k": 358,
+          "z": 238,
+          "class": 0,
+          "component": 0,
+          "y": -531.25
+        },
+        {
+          "map": 0,
+          "x": -7381.250000000002,
+          "k": 380,
+          "z": 306,
+          "class": 0,
+          "component": 0,
+          "y": -535.4166666666661
+        }
+      ],
+      "points": 20
+    },
+    {
+      "id": 1428,
+      "name": "Burning Steppes",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -8535.416666666668,
+          "k": 307,
+          "z": 260,
+          "class": 1,
+          "component": 0,
+          "y": -2797.916666666667
+        },
+        {
+          "map": 0,
+          "x": -8618.75,
+          "k": 308,
+          "z": 200,
+          "class": 0,
+          "component": 0,
+          "y": -2664.583333333333
+        }
+      ],
+      "points": 29
+    },
+    {
+      "id": 1429,
+      "name": "Elwynn Forest",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -9743.750000000002,
+          "k": 268,
+          "z": 36,
+          "class": 1,
+          "component": 0,
+          "y": 535.416666666667
+        },
+        {
+          "map": 0,
+          "x": -9789.583333333336,
+          "k": 268,
+          "z": 32,
+          "class": 0,
+          "component": 0,
+          "y": 535.416666666667
+        }
+      ],
+      "points": 6
+    },
+    {
+      "id": 1430,
+      "name": "Deadwind Pass",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -11460.416666666668,
+          "k": 193,
+          "z": 130,
+          "class": 0,
+          "component": 0,
+          "y": -2135.416666666667
+        },
+        {
+          "map": 0,
+          "x": -11202.083333333336,
+          "k": 193,
+          "z": 168,
+          "class": 0,
+          "component": 0,
+          "y": -2168.75
+        }
+      ],
+      "points": 51
+    },
+    {
+      "id": 1431,
+      "name": "Duskwood",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -10664.583333333336,
+          "k": 243,
+          "z": 118,
+          "class": 1,
+          "component": 0,
+          "y": -385.41666666666606
+        },
+        {
+          "map": 0,
+          "x": -10664.583333333336,
+          "k": 243,
+          "z": 166,
+          "class": 0,
+          "component": 0,
+          "y": -327.08333333333303
+        }
+      ],
+      "points": 12
+    },
+    {
+      "id": 1432,
+      "name": "Loch Modan",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -5868.750000000002,
+          "k": 423,
+          "z": 308,
+          "class": 1,
+          "component": 0,
+          "y": -2564.583333333333
+        },
+        {
+          "map": 0,
+          "x": -5868.750000000002,
+          "k": 423,
+          "z": 306,
+          "class": 0,
+          "component": 0,
+          "y": -2527.083333333333
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1433,
+      "name": "Redridge Mountains",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -9602.083333333336,
+          "k": 263,
+          "z": 64,
+          "class": 1,
+          "component": 0,
+          "y": -2064.583333333333
+        },
+        {
+          "map": 0,
+          "x": -9606.250000000002,
+          "k": 262,
+          "z": 70,
+          "class": 0,
+          "component": 0,
+          "y": -2135.416666666667
+        }
+      ],
+      "points": 8
+    },
+    {
+      "id": 1434,
+      "name": "Stranglethorn Vale",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -13864.583333333336,
+          "k": 106,
+          "z": 16,
+          "class": 1,
+          "component": 0,
+          "y": 260.41666666666697
+        },
+        {
+          "map": 0,
+          "x": -13864.583333333336,
+          "k": 106,
+          "z": 16,
+          "class": 0,
+          "component": 0,
+          "y": 97.91666666666697
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": 1435,
+      "name": "Swamp of Sorrows",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -10581.250000000002,
+          "k": 237,
+          "z": 18,
+          "class": 1,
+          "component": 0,
+          "y": -3731.25
+        },
+        {
+          "map": 0,
+          "x": -10535.416666666668,
+          "k": 237,
+          "z": 18,
+          "class": 0,
+          "component": 0,
+          "y": -3731.25
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1436,
+      "name": "Westfall",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -10664.583333333336,
+          "k": 245,
+          "z": 34,
+          "class": 1,
+          "component": 0,
+          "y": 1035.416666666667
+        },
+        {
+          "map": 0,
+          "x": -10639.583333333336,
+          "k": 245,
+          "z": 36,
+          "class": 1,
+          "component": 0,
+          "y": 1064.583333333333
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1437,
+      "name": "Wetlands",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -4110.416666666668,
+          "k": 513,
+          "z": 198,
+          "class": 1,
+          "component": 0,
+          "y": -3731.25
+        },
+        {
+          "map": 0,
+          "x": -4156.250000000002,
+          "k": 513,
+          "z": 230,
+          "class": 0,
+          "component": 0,
+          "y": -3731.25
+        }
+      ],
+      "points": 6
+    },
+    {
+      "id": 1438,
+      "name": "Teldrassil",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 8510.416666666668,
+          "k": 1927,
+          "z": 0,
+          "class": 0,
+          "component": 3383,
+          "y": -2.0833333333339397
+        },
+        {
+          "map": 1,
+          "x": 8535.416666666668,
+          "k": 1976,
+          "z": 0,
+          "class": 0,
+          "component": 3383,
+          "y": -31.25
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1439,
+      "name": "Darkshore",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 4264.583333333336,
+          "k": 1536,
+          "z": 42,
+          "class": 1,
+          "component": 4,
+          "y": 135.41666666666606
+        },
+        {
+          "map": 1,
+          "x": 4264.583333333336,
+          "k": 1536,
+          "z": 52,
+          "class": 0,
+          "component": 4,
+          "y": 77.08333333333212
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1440,
+      "name": "Ashenvale",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 1597.9166666666679,
+          "k": 1287,
+          "z": 100,
+          "class": 1,
+          "component": 4,
+          "y": -1889.583333333334
+        },
+        {
+          "map": 1,
+          "x": 1597.9166666666679,
+          "k": 1287,
+          "z": 122,
+          "class": 0,
+          "component": 4,
+          "y": -1831.250000000001
+        }
+      ],
+      "points": 3
+    },
+    {
+      "id": 1441,
+      "name": "Thousand Needles",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -6577.083333333333,
+          "k": 547,
+          "z": 86,
+          "class": 0,
+          "component": 4,
+          "y": -4268.750000000001
+        },
+        {
+          "map": 1,
+          "x": -6535.416666666666,
+          "k": 547,
+          "z": 86,
+          "class": 0,
+          "component": 4,
+          "y": -4268.750000000001
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1442,
+      "name": "Stonetalon Mountains",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 335.4166666666679,
+          "k": 1195,
+          "z": 146,
+          "class": 1,
+          "component": 4,
+          "y": 1068.75
+        },
+        {
+          "map": 1,
+          "x": 452.08333333333394,
+          "k": 1194,
+          "z": 180,
+          "class": 0,
+          "component": 4,
+          "y": 1064.5833333333321
+        }
+      ],
+      "points": 8
+    },
+    {
+      "id": 1443,
+      "name": "Desolace",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -2231.25,
+          "k": 952,
+          "z": 60,
+          "class": 1,
+          "component": 4,
+          "y": 2664.583333333332
+        },
+        {
+          "map": 1,
+          "x": -2168.75,
+          "k": 952,
+          "z": 62,
+          "class": 0,
+          "component": 4,
+          "y": 2664.583333333332
+        }
+      ],
+      "points": 3
+    },
+    {
+      "id": 1444,
+      "name": "Feralas",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -6964.583333333333,
+          "k": 512,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": 3197.916666666666
+        },
+        {
+          "map": 1,
+          "x": -6931.25,
+          "k": 561,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": 3172.916666666666
+        }
+      ],
+      "points": 3
+    },
+    {
+      "id": 1445,
+      "name": "Dustwallow Marsh",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -4264.583333333332,
+          "k": 795,
+          "z": 32,
+          "class": 1,
+          "component": 4,
+          "y": -3102.083333333334
+        },
+        {
+          "map": 1,
+          "x": -4264.583333333332,
+          "k": 795,
+          "z": 32,
+          "class": 0,
+          "component": 4,
+          "y": -3168.750000000001
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1446,
+      "name": "Tanaris",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -10464.583333333332,
+          "k": 204,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": -4268.750000000001
+        },
+        {
+          "map": 1,
+          "x": -10410.416666666666,
+          "k": 204,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": -4268.750000000001
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1447,
+      "name": "Azshara",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 1985.4166666666679,
+          "k": 1325,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": -7468.750000000001
+        },
+        {
+          "map": 1,
+          "x": 2106.250000000002,
+          "k": 1325,
+          "z": 0,
+          "class": 0,
+          "component": 4,
+          "y": -7468.750000000001
+        }
+      ],
+      "points": 6
+    },
+    {
+      "id": 1448,
+      "name": "Felwood",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 4268.75,
+          "k": 1583,
+          "z": 284,
+          "class": 1,
+          "component": 4,
+          "y": -856.25
+        },
+        {
+          "map": 1,
+          "x": 4268.75,
+          "k": 1583,
+          "z": 290,
+          "class": 0,
+          "component": 4,
+          "y": -893.7500000000009
+        }
+      ],
+      "points": 9
+    },
+    {
+      "id": 1449,
+      "name": "Un'Goro Crater",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -8002.083333333333,
+          "k": 404,
+          "z": -166,
+          "class": 0,
+          "component": 4,
+          "y": -2189.583333333334
+        },
+        {
+          "map": 1,
+          "x": -7960.416666666666,
+          "k": 453,
+          "z": -218,
+          "class": 0,
+          "component": 4,
+          "y": -2135.416666666667
+        }
+      ],
+      "points": 12
+    },
+    {
+      "id": 1450,
+      "name": "Moonglade",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 7464.583333333336,
+          "k": 1824,
+          "z": 462,
+          "class": 1,
+          "component": 4,
+          "y": -2760.416666666668
+        },
+        {
+          "map": 1,
+          "x": 7468.75,
+          "k": 1873,
+          "z": 456,
+          "class": 1,
+          "component": 4,
+          "y": -2710.416666666668
+        }
+      ],
+      "points": 3
+    },
+    {
+      "id": 1451,
+      "name": "Silithus",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -8227.083333333332,
+          "k": 408,
+          "z": 312,
+          "class": 0,
+          "component": 4,
+          "y": -2.0833333333339397
+        },
+        {
+          "map": 1,
+          "x": -8002.083333333333,
+          "k": 408,
+          "z": 298,
+          "class": 0,
+          "component": 4,
+          "y": -60.41666666666788
+        }
+      ],
+      "points": 7
+    },
+    {
+      "id": 1452,
+      "name": "Winterspring",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 5831.25,
+          "k": 1673,
+          "z": 774,
+          "class": 1,
+          "component": 4,
+          "y": -4802.083333333334
+        },
+        {
+          "map": 1,
+          "x": 5864.583333333336,
+          "k": 1674,
+          "z": 768,
+          "class": 0,
+          "component": 4,
+          "y": -4785.416666666668
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1453,
+      "name": "Stormwind City",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -8531.25,
+          "k": 338,
+          "z": 20,
+          "class": 1,
+          "component": 0,
+          "y": 1097.916666666667
+        },
+        {
+          "map": 0,
+          "x": -8560.416666666668,
+          "k": 315,
+          "z": 22,
+          "class": 0,
+          "component": 0,
+          "y": 1068.750000000001
+        }
+      ],
+      "points": 6
+    },
+    {
+      "id": 1454,
+      "name": "Orgrimmar",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 1585.4166666666679,
+          "k": 1282,
+          "z": 52,
+          "class": 5,
+          "component": 4,
+          "y": -4268.750000000001
+        },
+        {
+          "map": 1,
+          "x": 1622.9166666666679,
+          "k": 1331,
+          "z": 48,
+          "class": 5,
+          "component": 4,
+          "y": -4268.750000000001
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 1455,
+      "name": "Ironforge",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -4822.916666666668,
+          "k": 471,
+          "z": 448,
+          "class": 5,
+          "component": 0,
+          "y": -1068.75
+        },
+        {
+          "map": 0,
+          "x": -4797.916666666668,
+          "k": 494,
+          "z": 499,
+          "class": 5,
+          "component": 0,
+          "y": -1139.583333333333
+        }
+      ],
+      "points": 46
+    },
+    {
+      "id": 1456,
+      "name": "Thunder Bluff",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -1297.916666666666,
+          "k": 1045,
+          "z": 134,
+          "class": 1,
+          "component": 1608,
+          "y": -2.0833333333339397
+        },
+        {
+          "map": 1,
+          "x": -1235.416666666666,
+          "k": 1045,
+          "z": 166,
+          "class": 0,
+          "component": 1608,
+          "y": -2.0833333333339397
+        }
+      ],
+      "points": 12
+    },
+    {
+      "id": 1457,
+      "name": "Darnassus",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 10135.416666666668,
+          "k": 2128,
+          "z": 1320,
+          "class": 1,
+          "component": 3410,
+          "y": 2372.916666666666
+        },
+        {
+          "map": 1,
+          "x": 10135.416666666668,
+          "k": 2128,
+          "z": 1344,
+          "class": 0,
+          "component": 3410,
+          "y": 2335.416666666666
+        }
+      ],
+      "points": 14
+    },
+    {
+      "id": 1458,
+      "name": "Undercity",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": 1597.916666666666,
+          "k": 750,
+          "z": 60,
+          "class": 5,
+          "component": 0,
+          "y": 235.41666666666697
+        },
+        {
+          "map": 0,
+          "x": 1602.083333333334,
+          "k": 773,
+          "z": -56,
+          "class": 5,
+          "component": 0,
+          "y": 272.91666666666697
+        }
+      ],
+      "points": 15
+    },
+    {
+      "id": 1459,
+      "name": "Alterac Valley",
+      "continent": 30,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 30,
+          "x": -1064.5833333333335,
+          "k": 12,
+          "z": 52,
+          "class": 1,
+          "component": 0,
+          "y": -377.08333333333326
+        },
+        {
+          "map": 30,
+          "x": -1064.5833333333335,
+          "k": 12,
+          "z": 58,
+          "class": 0,
+          "component": 0,
+          "y": -322.9166666666665
+        }
+      ],
+      "points": 4
+    },
+    {
+      "id": 1460,
+      "name": "Warsong Gulch",
+      "continent": 489,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 489,
+          "x": 1068.75,
+          "k": 5,
+          "z": 322,
+          "class": 1,
+          "component": 0,
+          "y": 1552.0833333333335
+        },
+        {
+          "map": 489,
+          "x": 1064.5833333333335,
+          "k": 2,
+          "z": 326,
+          "class": 0,
+          "component": 0,
+          "y": 1602.0833333333335
+        }
+      ],
+      "points": 7
+    },
+    {
+      "id": 1461,
+      "name": "Arathi Basin",
+      "continent": 529,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 529,
+          "x": 339.58333333333337,
+          "k": 0,
+          "z": 144,
+          "class": 0,
+          "component": 0,
+          "y": 531.25
+        },
+        {
+          "map": 529,
+          "x": 393.75,
+          "k": 0,
+          "z": 144,
+          "class": 0,
+          "component": 0,
+          "y": 531.25
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 2482,
+      "name": "Mount Hyjal",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": 4518.75,
+          "k": 1580,
+          "z": 1184,
+          "class": 1,
+          "component": 4,
+          "y": -2135.416666666667
+        },
+        {
+          "map": 1,
+          "x": 4568.75,
+          "k": 1580,
+          "z": 1148,
+          "class": 0,
+          "component": 4,
+          "y": -2135.416666666667
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": 2521,
+      "name": "Zephras Isle",
+      "continent": 2991,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 2991,
+          "x": 1597.9166666666667,
+          "k": 2,
+          "z": 884,
+          "class": 0,
+          "component": 0,
+          "y": 456.25
+        },
+        {
+          "map": 2991,
+          "x": 1597.9166666666667,
+          "k": 2,
+          "z": 880,
+          "class": 0,
+          "component": 0,
+          "y": 493.75
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 2524,
+      "name": "Darkspear Islands",
+      "continent": 2997,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 2997,
+          "x": -531.25,
+          "k": 12,
+          "z": 32,
+          "class": 1,
+          "component": 2,
+          "y": 1964.5833333333335
+        },
+        {
+          "map": 2997,
+          "x": -368.75,
+          "k": 13,
+          "z": 48,
+          "class": 0,
+          "component": 2,
+          "y": 2135.416666666667
+        }
+      ],
+      "points": 12
+    },
+    {
+      "id": 2548,
+      "name": "Riverglades",
+      "continent": 0,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 0,
+          "x": -9064.583333333336,
+          "k": 303,
+          "z": 38,
+          "class": 1,
+          "component": 0,
+          "y": -5014.583333333334
+        },
+        {
+          "map": 0,
+          "x": -9064.583333333336,
+          "k": 303,
+          "z": 40,
+          "class": 0,
+          "component": 0,
+          "y": -5064.583333333334
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 2652,
+      "name": "Shen'dralas",
+      "continent": 1,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 1,
+          "x": -2685.416666666666,
+          "k": 901,
+          "z": 94,
+          "class": 1,
+          "component": 4,
+          "y": 1068.75
+        },
+        {
+          "map": 1,
+          "x": -2664.583333333332,
+          "k": 950,
+          "z": 96,
+          "class": 0,
+          "component": 4,
+          "y": 1097.916666666666
+        }
+      ],
+      "points": 2
+    },
+    {
+      "id": 2665,
+      "name": "Zephras Isle",
+      "continent": 2991,
+      "routeChecked": true,
+      "checkedPair": [
+        {
+          "map": 2991,
+          "x": 1597.9166666666667,
+          "k": 2,
+          "z": 884,
+          "class": 0,
+          "component": 0,
+          "y": 456.25
+        },
+        {
+          "map": 2991,
+          "x": 1597.9166666666667,
+          "k": 2,
+          "z": 880,
+          "class": 0,
+          "component": 0,
+          "y": 493.75
+        }
+      ],
+      "points": 2
+    }
+  ]
+}

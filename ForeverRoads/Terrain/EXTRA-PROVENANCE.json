@@ -1,0 +1,54 @@
+{
+  "clientBuild": "1.60.1.70862",
+  "mapIDs": [
+    30,
+    489,
+    529,
+    2997
+  ],
+  "license": "GPL-3.0-only",
+  "generator": "Modified GPL Forge tools, source provided in ForeverRoads-build-source.zip",
+  "changes": "Flat legacy ocean depth-only vertex streams are decoded without reading adjacent MH2O records. Three parser regression tests pass.",
+  "files": [
+    {
+      "file": "ExtraChokepoints.lua",
+      "sha256": "be92de2885832833ddf54173da5b8461be8f21784bed10b2091667abaf89b97e"
+    },
+    {
+      "file": "Nav2997.lua",
+      "sha256": "0186fddb0865fd3aec464d7b1db26e7de9391d7c1686993a04a50ab5a9a773b0"
+    },
+    {
+      "file": "Nav2997_1.lua",
+      "sha256": "276abc6c39a80b365f2136324317bd6aecdf058be6133a78492b3f9f2f286938"
+    },
+    {
+      "file": "Nav30.lua",
+      "sha256": "26aeba8d43315b1aee239dd3b67eeb96d21373de16d7fdbc3a758ac4a67778d3"
+    },
+    {
+      "file": "Nav30_1.lua",
+      "sha256": "b961468624a40daa51a20af20fb921678472ebd46e833486b74257f4a7ef7c72"
+    },
+    {
+      "file": "Nav30_2.lua",
+      "sha256": "833c72d126e43844d9c08df94c4b6bb243aedd44f7cc2e89889a4443a7b95313"
+    },
+    {
+      "file": "Nav489.lua",
+      "sha256": "5603c95f8eeb01f748686da197f702311cd7321e9406cbcd52ac2309cb5e8a03"
+    },
+    {
+      "file": "Nav489_1.lua",
+      "sha256": "0f6d55a11a968e7282ecff299e2d779436b8ea9807db40540e2cf9000f8b7f82"
+    },
+    {
+      "file": "Nav529.lua",
+      "sha256": "2d807847ed38733752a849dce42fecd46beb42357386ef057425526d17bc6168"
+    },
+    {
+      "file": "Nav529_1.lua",
+      "sha256": "67fd5ea3c61f4af881c4d7d0395bc798bf186713008aa8a53fc1323670b0d494"
+    }
+  ]
+}

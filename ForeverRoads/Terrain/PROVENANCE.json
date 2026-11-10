@@ -1,0 +1,625 @@
+{
+  "project": "https://github.com/fitzforge/polestar",
+  "revision": "f174784d71856460b9fdef9ff9b7dc24519152fe",
+  "license": "GPL-3.0-or-later",
+  "files": [
+    {
+      "source": "addon/Polestar_Nav/Nav/Nav0.lua",
+      "target": "Terrain/Nav0.lua",
+      "sourceSHA256": "e55ce4985e82a3dcff27c4c880674d26b1cf5ebedb8dcd85fdab967afa763aeb",
+      "installedSHA256": "8f32397a1d4bd62c933f43e734a1e60f7d298e053acad671c20ad160b39c4f2b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_1.lua",
+      "target": "Terrain/Nav0_1.lua",
+      "sourceSHA256": "f524dcb74dd1459994ead32d6f2711ec06e11bbd40483bec2b2be7f9992e721a",
+      "installedSHA256": "4d0a793d8c072ffdd900dfead74ea3abe34edf396b30e5b97ac6247a45c5c6a9"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_2.lua",
+      "target": "Terrain/Nav0_2.lua",
+      "sourceSHA256": "3214591907ebf91799290960fd58600664ee8d9bd09b633d6f4dc34b18e433bd",
+      "installedSHA256": "937668a76c49f98a1002bf4f313ff63e61de584e563919397a0a9137cf457dd3"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_3.lua",
+      "target": "Terrain/Nav0_3.lua",
+      "sourceSHA256": "73203784f228d62ab65c0694e97dc45fbbb5a39eb415a2d798c601ad92128c86",
+      "installedSHA256": "a95c4e3b7e4cbe41e66fb9cb53994c47f87dac0c1809f6054dc8f5dbba1c025c"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_4.lua",
+      "target": "Terrain/Nav0_4.lua",
+      "sourceSHA256": "e8667519d0c51a891ad64466b59f80760075e0f0b312baa73f089d18dd9e3c37",
+      "installedSHA256": "ae2e73986377394e67f9d600534a91907084c47a63bbbd6a8e077f83f77f8e0b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_5.lua",
+      "target": "Terrain/Nav0_5.lua",
+      "sourceSHA256": "15ffd5ed5fae7a2ac45ef8984b12b28ff1e52e19118e88ba1606c64c66a1f371",
+      "installedSHA256": "d462c0c6aac2b7e19b36e78e9dcdfa20a1b929d232a51a679d23f6f0a5594bd6"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_6.lua",
+      "target": "Terrain/Nav0_6.lua",
+      "sourceSHA256": "3730cd8a5d5f4a0736d2ce5a048c1463712eb6a83044cc6d2092a44f85915003",
+      "installedSHA256": "3304eb64fe80a0d5b00f80876fd9a8b2b06def282fdadbc386e662f08f1022cd"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_7.lua",
+      "target": "Terrain/Nav0_7.lua",
+      "sourceSHA256": "956948a791f34e023a286b2cfc41d613c1097659945e34fbc4eb7b7472839950",
+      "installedSHA256": "0b40bd727f82da01ba7ecb01e7b42e64b65e8232b10d79e437bf8f3d1b8a9aba"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_8.lua",
+      "target": "Terrain/Nav0_8.lua",
+      "sourceSHA256": "b6d72fbf88f19ad5ea76a6f4ccb7674ea8eef8c115d2142847514e1a16821914",
+      "installedSHA256": "2fded0fb7b6b1a5fab7f49bbb1ab8573006a120bea972d9411880414e0dd2dcc"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_9.lua",
+      "target": "Terrain/Nav0_9.lua",
+      "sourceSHA256": "0dd2a27d08dbc55fe2825235200f0eebb99a585f0471ccaefc7f92e92f9f9cf1",
+      "installedSHA256": "3e6ce2b512527f0d6680b188fa712dfb63e730c95c18b21cf68881c177e4e484"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_10.lua",
+      "target": "Terrain/Nav0_10.lua",
+      "sourceSHA256": "c5dccbf4fe46206ab4b34d75fee10816cd188053f4d806a1cfbfb12af96ef070",
+      "installedSHA256": "7bb7c5a99689156b1ea4926f952d96e8dfeeae6ffc3d9c79b020cd5a4aa4d5fc"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_11.lua",
+      "target": "Terrain/Nav0_11.lua",
+      "sourceSHA256": "3a054c0f2925c9fc7db66a7964188315f5f7bd4358da7df1e91c9196687c655d",
+      "installedSHA256": "eac67d5d166a1b1cbf23fa834d0157f9e8703ad858194df6b5b307024acfd348"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_12.lua",
+      "target": "Terrain/Nav0_12.lua",
+      "sourceSHA256": "0006a3f155274803b12d1ebf4cddbced9e735ab686eba8598bc9fd038ae6c3d2",
+      "installedSHA256": "a8154351547268a8ccaba6ec9bb06398ec3436e45b4a3260afc80259ad179738"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_13.lua",
+      "target": "Terrain/Nav0_13.lua",
+      "sourceSHA256": "6db0c4c95880ef87e3ddc2c09f70d1a21170abc14e4ea535048be1266848a9dc",
+      "installedSHA256": "501cf26116de1e7e65c1cecfbd7d315c26cd6d8a021e3b93dff72dbc8767d0e1"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_14.lua",
+      "target": "Terrain/Nav0_14.lua",
+      "sourceSHA256": "1e498e939139c85680b78973aa9af685b028e7d0731ef9fdf223662d9812ff1f",
+      "installedSHA256": "aa50a61507d2bb4800119db6faba356f14b625b124f95518224dd70ef8f7a898"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_15.lua",
+      "target": "Terrain/Nav0_15.lua",
+      "sourceSHA256": "5bf7fe22ef68f5e36eb1ce08a6e1b2edddce1e625840c53e44073a05d96b8a07",
+      "installedSHA256": "70fcfede44caa44e6c5fe3e509474f7f20c6ea6c7dd1170a4893e90ba7e2def0"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_16.lua",
+      "target": "Terrain/Nav0_16.lua",
+      "sourceSHA256": "117bdf960a39c5fc971257cb72e2872fcfc918547fce2a3b3229893e50dc8d52",
+      "installedSHA256": "ac1de5574c2a8c4e097683642325d18fac121fbd550a84ac252fd78a26f5e97b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_17.lua",
+      "target": "Terrain/Nav0_17.lua",
+      "sourceSHA256": "73489322205e0dcbf346dd4aacb649c43e7f26ab4d928aff77b631cd47448860",
+      "installedSHA256": "942fbb832bc1ade1cc0608318a4af712caee80711275fa01c2b95628a1af4a45"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_18.lua",
+      "target": "Terrain/Nav0_18.lua",
+      "sourceSHA256": "3794a4093f99b8a2dab66d5a5e87e62f686cb976b24fdc657399094e73424633",
+      "installedSHA256": "57809099e32393c1e6157ac0b8340f0cc4e342cc6c16466434d08839ae5d3d2e"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_19.lua",
+      "target": "Terrain/Nav0_19.lua",
+      "sourceSHA256": "8684010d09d5e0a776ad68d48f33176048e6d3057d46faada7423a8b049725e4",
+      "installedSHA256": "382aaef3422d2c425ab7294769dcafb93bf73825f76ae9d3d2702c74a246d294"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_20.lua",
+      "target": "Terrain/Nav0_20.lua",
+      "sourceSHA256": "31ddd26b1e74bdba97d7b102b9364f2ea18e45cb1a436d6a775b3ce1d0a4234d",
+      "installedSHA256": "f9ec53e4f9b0a64dc606c4ad535e659a300ef8b5e7565199e7277011e5a68e12"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_21.lua",
+      "target": "Terrain/Nav0_21.lua",
+      "sourceSHA256": "7103c0277d9fb077f16c218fea02760489f38e7a75bf5b38f11bde9865bf7d4b",
+      "installedSHA256": "df991381e6ce5ea84013fa1379b9e90a481a8a086b40bd50676c96d6e12961a1"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_22.lua",
+      "target": "Terrain/Nav0_22.lua",
+      "sourceSHA256": "ef996c2a586065ed0ca2cd0913fe34cc8bdca2dddaf53584be23f6044c5b462f",
+      "installedSHA256": "46bb49d10f6fa71d9ff0eab539887d57370dcaba768c1fc2294e300a2dfac66b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_23.lua",
+      "target": "Terrain/Nav0_23.lua",
+      "sourceSHA256": "bb2b7539d33ab870c816cc79ac61aa9a02f051bf80faacffec6d5a34633e52c3",
+      "installedSHA256": "e21fb011eacac92aeaaf094f0e03f0cbf626a2070833b04711edbd204c8c9023"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_24.lua",
+      "target": "Terrain/Nav0_24.lua",
+      "sourceSHA256": "5db443db44173540ef5169dc078d9bde94eb04d29399c7f0e90ac0c36b2acab5",
+      "installedSHA256": "eb2dd6adba4f5696d79e15d24ab08c9530588db233f4dab0c4515de33e0fe8e9"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_25.lua",
+      "target": "Terrain/Nav0_25.lua",
+      "sourceSHA256": "2d33fd9fcd69d7b10a79ff8eb5f039bfcf702ef95d480a0c615ca1cc2e6cad6a",
+      "installedSHA256": "99bb709231f014859058f3a58be20aedb52c548f74724cb5d003c4044ab7705f"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_26.lua",
+      "target": "Terrain/Nav0_26.lua",
+      "sourceSHA256": "9fa190d805d11ef4b8a4536b74c7b5cb16995eca39948069107b4dceb8e0b92d",
+      "installedSHA256": "5f3cfe598ed5e9907e16d274016b3e86174aad40bd21d06b89f081ed24045250"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_27.lua",
+      "target": "Terrain/Nav0_27.lua",
+      "sourceSHA256": "2802b26accc88f0d2e66d4a9aa94597acae4bf28938fdfaafd730aea01df241b",
+      "installedSHA256": "e4ab447064e73ecb886849b66dda1bc52bdc4cd24c37ccaed301ba77329b1f6b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_28.lua",
+      "target": "Terrain/Nav0_28.lua",
+      "sourceSHA256": "43a61ccce936c753b3f95e9ce1db9d6f88478d26e50b3160e89fbd926f3eb24f",
+      "installedSHA256": "dbebed7d69b9b03a2531043c202949fbd50422f6c457a980ab3d0acc89872425"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_29.lua",
+      "target": "Terrain/Nav0_29.lua",
+      "sourceSHA256": "8887b69fc2e1d4454a7347a4b5fd8cccf8db4e50797fbec341df885f0d8f797d",
+      "installedSHA256": "285f77d3c26c0dcc616fb73dfba5a075cdb8d79ea8e27a44358e0ecd7fe23475"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_30.lua",
+      "target": "Terrain/Nav0_30.lua",
+      "sourceSHA256": "f468c12af30a703fdbab52f75b692b192ecba78831fd4520be0d85fd92dba731",
+      "installedSHA256": "16be0ecc6172a8baf1e7daeb61cbdf59035119fc840ace0fc2d1a1936505a5be"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_31.lua",
+      "target": "Terrain/Nav0_31.lua",
+      "sourceSHA256": "5227b90dc701aaa9132ba93e166cb798a84d3d01392b0cb21dbf062374ebec43",
+      "installedSHA256": "d99f1ac6e079a6f2a7b3b924bc4632677e179215a72470ff972cb7bb16f3e148"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_32.lua",
+      "target": "Terrain/Nav0_32.lua",
+      "sourceSHA256": "192cb94bbed84c0be56e1e66e31b66eb92218ca3118559ff6826f8ab984e22be",
+      "installedSHA256": "5a059507e910de81ef91c9cae9ab2c758f2a7318a7244edbd8b2f5aa6a5019e9"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_33.lua",
+      "target": "Terrain/Nav0_33.lua",
+      "sourceSHA256": "ea4dda92469385cc5abd36c013eb7e9fc74ee2ec10cf4c22598fc84b90958a40",
+      "installedSHA256": "c3ce8eca7e4fef2c32a76c6870b9608f2927534c1b1715bc373b8727ed523a2b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_34.lua",
+      "target": "Terrain/Nav0_34.lua",
+      "sourceSHA256": "47ba917aa04572eafce05af7253c88380bc843ccf75d99f2a8b4aad2f0bb6862",
+      "installedSHA256": "dcc603dd8807fdd128a5f69de698e1e4647bc7da93bc288f5c5fa573c32d286a"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_35.lua",
+      "target": "Terrain/Nav0_35.lua",
+      "sourceSHA256": "2585bc97656ca425578c7954acf72767eeb917cf7605d772595b99e71c98cc29",
+      "installedSHA256": "f1bd0ffcf5c36808b1b9a9cfb50e471dc2e08a9579686faed76dfdf3b210a9fe"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_36.lua",
+      "target": "Terrain/Nav0_36.lua",
+      "sourceSHA256": "67b2e7470c8c6dca2e8e3f265d98d2e4a146395abd57a2bc5b08d99be38c76cf",
+      "installedSHA256": "c73084a77b24313b8edf81f1d28ada6e298ca949b16e2681d3192296a090eb13"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_37.lua",
+      "target": "Terrain/Nav0_37.lua",
+      "sourceSHA256": "cd0422821ee27078d8df0d9a8d75a34897dcbf8fe82d68db6a426e79fc81bd40",
+      "installedSHA256": "54ba6d94bfc9224aaaf30c27f2f4e1592a07be4a09a4b6662021e1ea45bbbc7f"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_38.lua",
+      "target": "Terrain/Nav0_38.lua",
+      "sourceSHA256": "1ffc62d94b7c7f8e3ff3dbc9f29f8d2d212c7ca8eff447423ec03607f097de5d",
+      "installedSHA256": "b0ce873351d0e8b6d64034926149ad927b00418940e9d3a1699d1d43b3dce4aa"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_39.lua",
+      "target": "Terrain/Nav0_39.lua",
+      "sourceSHA256": "b37337e61c0aea405f83898eb08e6ac118432af93545623f98f6d0e58767393a",
+      "installedSHA256": "197cc881266a17ce73fdcbf08eadfd2877e52438294ed3f5b6db6d7d11488c7b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_40.lua",
+      "target": "Terrain/Nav0_40.lua",
+      "sourceSHA256": "f9f8ec03e752e91c37dd329e97fdda3146a1108198fdd65ac4d979d9b6d51cad",
+      "installedSHA256": "01fd58bf45277592d272375fe8bca0972f23c5a1353c8427ea92352989fd040b"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_41.lua",
+      "target": "Terrain/Nav0_41.lua",
+      "sourceSHA256": "c81ef5230c7325d004139c2b2a7ee7bd7bd57a5ba7835f7190aa5ef2d096e89b",
+      "installedSHA256": "2064e2eba804e2bf7924f3a41216e0ccbd68f89a413376f442b51a3a4fda7f34"
+    },
+    {
+      "source": "addon/Polestar_Nav_EK/Nav0_42.lua",
+      "target": "Terrain/Nav0_42.lua",
+      "sourceSHA256": "c0928baf7304df23ac6b5d04279ec0cf913ab0ccc8a87226f79d71006e91b140",
+      "installedSHA256": "513ca0452f3fd15825447df75ebbbcb56182f78a5a206c46b6a552b9d730cae7"
+    },
+    {
+      "source": "addon/Polestar_Nav/Nav/Nav1.lua",
+      "target": "Terrain/Nav1.lua",
+      "sourceSHA256": "7f050ca2440b499ff5999a79006fc02eaa0000999b146ccc3f60f9745b2bea4b",
+      "installedSHA256": "1218b904ad9098fffe625db2df03389b8e7c6b31df2b19c169874035f4b4a597"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_1.lua",
+      "target": "Terrain/Nav1_1.lua",
+      "sourceSHA256": "341e269aa7e9cdc36b15fe9b498cb5fa98d506ddeb7d40e607d70cb189d7aceb",
+      "installedSHA256": "aabb0fc5bf780ff7d43a9f02410bc9e72c8274001ecf2013469e25a9f832446c"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_2.lua",
+      "target": "Terrain/Nav1_2.lua",
+      "sourceSHA256": "eeb4d9e66313fc88ffae2c6b8cea0432260d884bfec21d832cf02b654297d2a7",
+      "installedSHA256": "696f7d87e50c87e6c44f8a362925a4a4df94fe727d34f12c54030d9eafcee955"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_3.lua",
+      "target": "Terrain/Nav1_3.lua",
+      "sourceSHA256": "f215cd4e5cb79e8ee6f03dc98dcc94b0d9d47da9c0b8454f8a237deeba2eff8c",
+      "installedSHA256": "94c0a82399d1847d2bf9031b5fcec78c99250bed0989c1dc3b55ad54a13ea544"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_4.lua",
+      "target": "Terrain/Nav1_4.lua",
+      "sourceSHA256": "95262844583695c8241524397c5fb2a244f29b4284ae745b9f120699eee602e4",
+      "installedSHA256": "4571cd0544a05f81db79dde833850ecf11d49b8df5dd3121b1c2ec5ec2659b18"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_5.lua",
+      "target": "Terrain/Nav1_5.lua",
+      "sourceSHA256": "1b657784cc145e4f56262b2689de2e2203cd5e8d2108a560916b1cd596d70f47",
+      "installedSHA256": "68f514102326dc11af170bdcfed348f0baf7fdd6f61b71e69cd77bf0666d5d70"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_6.lua",
+      "target": "Terrain/Nav1_6.lua",
+      "sourceSHA256": "f15516b3f8e0704e2e36c3caf08e6274501a8ded01794df45016a9a1ce3ea252",
+      "installedSHA256": "e57167c6f8950fb78bc0ffba72de02603a5a2ffaf0449a8e5364813a4a2b4c92"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_7.lua",
+      "target": "Terrain/Nav1_7.lua",
+      "sourceSHA256": "0986ad4450d56f18ba2fa11e4b9f4ee68a891ac86b9b831c01cf8d0c57b1c024",
+      "installedSHA256": "9973f98d823098e376c3569697ceb0762c3e6e203521f545d2975203995126e5"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_8.lua",
+      "target": "Terrain/Nav1_8.lua",
+      "sourceSHA256": "a51d966b5fcf4edcbed0f65bd83c355da94ca2573508ae202d344991a4fa3f2f",
+      "installedSHA256": "4e7d8731450fd15001eea1facb25b5c25ae898f8579303d776efd480152ff4a6"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_9.lua",
+      "target": "Terrain/Nav1_9.lua",
+      "sourceSHA256": "01309b9e5b3e1196d6e338bb78c533926ccf38d896f23678b383ed45fb635156",
+      "installedSHA256": "743c5bd5c65d541e877f1c66a41cf2f6c5c814deec6e843a1db50d7d6dfaaaa0"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_10.lua",
+      "target": "Terrain/Nav1_10.lua",
+      "sourceSHA256": "3fe40dd30990208d89634f26c0240e2d5ef49c79fd467e97fa0e7ca725a6cffd",
+      "installedSHA256": "1701a864929f4f29f9a0d73028656aaf1afaefbb1e0dff937bb1182033238191"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_11.lua",
+      "target": "Terrain/Nav1_11.lua",
+      "sourceSHA256": "6c3f5af25c98467e10f89cd0dcfcc8511421788c6eb0e17603bdf5ea422b8423",
+      "installedSHA256": "343de144f9ff5bd095f15d6debe645ef671e1ec14b13e83e3aa45024f66770fd"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_12.lua",
+      "target": "Terrain/Nav1_12.lua",
+      "sourceSHA256": "09af654e84800eb1f496232d95f3d94267d76f5f73c05c2529f7d2abd25a6744",
+      "installedSHA256": "c0d97ea3ee0b2a93a2f495d575e5afdd9db9e48e011b4054130cd202fede9cb1"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_13.lua",
+      "target": "Terrain/Nav1_13.lua",
+      "sourceSHA256": "35a5205f508f92c24032126814f368d48dd2aafb4775e207c60c96043bf1bcdd",
+      "installedSHA256": "aa029ea68299b7f1cbe01233f64891711d3ff00a516f566bd1d7cbca3e10c011"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_14.lua",
+      "target": "Terrain/Nav1_14.lua",
+      "sourceSHA256": "763181d322c127e6191fe8aedfb40e372212ee0fe46ceb35d055c61476bce32e",
+      "installedSHA256": "ef97ef4867518c6d3ddba18aaefe83af2cdf5dbaf103a9c41d8f938582b6f738"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_15.lua",
+      "target": "Terrain/Nav1_15.lua",
+      "sourceSHA256": "2756340b7ce47d34ad27582acda187ee04f05c09173a416bd48ca3c06cb2137e",
+      "installedSHA256": "a503bf46e5ee44584e7074269e3518136fff120c4d92204d19e76b0f71f15f1c"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_16.lua",
+      "target": "Terrain/Nav1_16.lua",
+      "sourceSHA256": "45e76c152445ee30a886fb2c2d25e736778d6cd5c88cee4fa570ee450b5f3eee",
+      "installedSHA256": "b1c74ec47385b84b693d2e587a32ee3c5596eaee25148f556ca509c2a0a8eaca"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_17.lua",
+      "target": "Terrain/Nav1_17.lua",
+      "sourceSHA256": "072c407a02ddf144e901f14945a812c5f7d33abf06236eb4aec9775e550081d8",
+      "installedSHA256": "2b4e15741485327f044062d429e277f1f5d69421fd64de76e217645f9c6823ac"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_18.lua",
+      "target": "Terrain/Nav1_18.lua",
+      "sourceSHA256": "fcbfd692094f283f500737277917a466be67b6e708d24391e32176a2610bb1c7",
+      "installedSHA256": "e118b19367dc110c98a112d07b6a8894ef5697a1b844a3b7fac605a36e0b5d07"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_19.lua",
+      "target": "Terrain/Nav1_19.lua",
+      "sourceSHA256": "b5633580d5bb8443488dc00c29d4fdb153903b3124ccedfb502f69c3a5c3c34a",
+      "installedSHA256": "289e0b06acdbc0fcdcbaa9c68fecd024dabf4030ecde2d5293873bd6fe1c0ce4"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_20.lua",
+      "target": "Terrain/Nav1_20.lua",
+      "sourceSHA256": "30512526a4023e470ea83a08eb777089ab682f86dc3dcaae21f16366ee2347bc",
+      "installedSHA256": "d6d82f6e14e1a47d759871b9d8f3adc64610c628d5abc1d033736d7b26f71ecd"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_21.lua",
+      "target": "Terrain/Nav1_21.lua",
+      "sourceSHA256": "59a8b40e05fcc0de5888da4e466818b66273573adf85bf021e42046a9ac21a32",
+      "installedSHA256": "44de17af8113e89663228b7dec45adb0cb38904a95f438e07286ca595e3622c4"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_22.lua",
+      "target": "Terrain/Nav1_22.lua",
+      "sourceSHA256": "ca40c8b922192c710d7fceeb608fedf41ac87f416a732e828eaf6310bc646f60",
+      "installedSHA256": "d2a60937f387c14f1439211ccc766fa30de15e3a449aa39008c7fe478f3a0f47"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_23.lua",
+      "target": "Terrain/Nav1_23.lua",
+      "sourceSHA256": "ed1fb71b924f432f9c1900db9d606187cccb852bed414c0488bd0fb3ccd3202a",
+      "installedSHA256": "518aa41b5f0afd06f7e7b3d6ff0745bb10914c385851422453d41cd4f04f4c96"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_24.lua",
+      "target": "Terrain/Nav1_24.lua",
+      "sourceSHA256": "c71357fce1d97e7b17c2ca777186ed269b4d619bf7df891f0adfe10d10e8bd69",
+      "installedSHA256": "cd11f6066457e723154db85024441f2a22b330a1c8d5e90ef27f9ac2a0f2afe9"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_25.lua",
+      "target": "Terrain/Nav1_25.lua",
+      "sourceSHA256": "3aa6e664cef6a9740f480190bc597e44e53cb34b0e38bdb842c166ee56364a0e",
+      "installedSHA256": "5bf832c1cd65c132fcaecb91e0d7a42c22c9fbac85f903ad9f6b2f9ed5436a31"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_26.lua",
+      "target": "Terrain/Nav1_26.lua",
+      "sourceSHA256": "3c031cafae9890a556e3509e19eec7adea554dc01cc360ac477ccdce2b3d7d01",
+      "installedSHA256": "6c61c1acda2932eb114a479c95acf2119ecf068e76507975320bb14d163f0826"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_27.lua",
+      "target": "Terrain/Nav1_27.lua",
+      "sourceSHA256": "3cd39033d4c68417157be4e1ebfce3d06a26e69575339616f3bd1febe13ddb67",
+      "installedSHA256": "a7ba2e6aa6bf86d93108c389a94a2c3d2797c7700d3c64ed8317bb494706d451"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_28.lua",
+      "target": "Terrain/Nav1_28.lua",
+      "sourceSHA256": "0c9c812507e28c6fff9b4d852cb243b4970a53ec82600bce0f1764e106f03937",
+      "installedSHA256": "7d25486ca8700baa5de9e6535fa990c4a67f2cb453c7a4d7bdf909bf9c040bc8"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_29.lua",
+      "target": "Terrain/Nav1_29.lua",
+      "sourceSHA256": "85e03586a683743860be6dd070c46b459b3494e26591aa0f42c2d1233ef0c9ff",
+      "installedSHA256": "11372728dc284e45b7f4281bd616888e00723c5963e4a6ada48bf295718c0c4a"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_30.lua",
+      "target": "Terrain/Nav1_30.lua",
+      "sourceSHA256": "a65f3550631aae548a1472883ad2e6ab329a6e58681023050bf656e5a557d9cf",
+      "installedSHA256": "3e9ca13ec88b49967089e05084e4c45d588c77d82030faa1752de380de91f2a9"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_31.lua",
+      "target": "Terrain/Nav1_31.lua",
+      "sourceSHA256": "3b21e36f65ba265abad1bf69e9ee0a1746583d4bed89bcae6ff872d88f037cd1",
+      "installedSHA256": "e9c4ff420fa9c8d1d250f73b6b74f88c1ec66b89b711aa708002aa48ad74cc63"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_32.lua",
+      "target": "Terrain/Nav1_32.lua",
+      "sourceSHA256": "5ff636d329c4330c4012bdbafc071a0e81515b4c2db59ec8a328f689096f4e7d",
+      "installedSHA256": "6f9e84b7c70f57808c0494d3de511d8496a0ffa45202a7b8eb17a4ce8b5e5abc"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_33.lua",
+      "target": "Terrain/Nav1_33.lua",
+      "sourceSHA256": "2e82717412b34e5f530f632766078ea887e80c4104559001ca56e8b876d873e7",
+      "installedSHA256": "d0dbfc41eab5be48fa3efebf42d082222cfeb90d92df9901d9f50a9666757e2e"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_34.lua",
+      "target": "Terrain/Nav1_34.lua",
+      "sourceSHA256": "1e540fbe40dde3b747a40f10579f21e12587bbf53e7877ec5f47e97167c90aba",
+      "installedSHA256": "c6bfd6e0ccd8b5cbca5727ca356c619e542cb422629a505e3d659c358a91b6ab"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_35.lua",
+      "target": "Terrain/Nav1_35.lua",
+      "sourceSHA256": "6417fc3b2a124d622eadefb3f629338e12bd61eeea6ddf810d686f476f70c8e6",
+      "installedSHA256": "7b0f8231af9752b748be8f7004dec7816cbb749088b09f533a4d812dc6387d98"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_36.lua",
+      "target": "Terrain/Nav1_36.lua",
+      "sourceSHA256": "98fc39394476f5993ac9c1d6a1d5809cfcc7b969ff8c39b040b1d38dc755fd86",
+      "installedSHA256": "2eb1ea6d5bfdee2533b8e40a8b3b4e8fe6075d15569ba7f57f296c7059e9d3de"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_37.lua",
+      "target": "Terrain/Nav1_37.lua",
+      "sourceSHA256": "fc739529673a5df3e075c3ce13b0dfec3c82d83f3e2a8dcbca7845e440082295",
+      "installedSHA256": "b6c57bfdd67078a5d022f76f7cd8c80ce90bc693254c6d08261123c32dccbce2"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_38.lua",
+      "target": "Terrain/Nav1_38.lua",
+      "sourceSHA256": "686693f2c6ba95c96d489e8a5ab421bcdd3baf1a3bfe4b31b486ea3701ccc93c",
+      "installedSHA256": "95c77d8d6dce7e5ef23b75fa2240555d2d134d69a868d9b862399f10b27794a8"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_39.lua",
+      "target": "Terrain/Nav1_39.lua",
+      "sourceSHA256": "8eba6b51d701845694b0d0adbe08f976925e33abf5dda7a096a68015d361ee43",
+      "installedSHA256": "9d8f17980bd89c66451df9f854c7e8122bfa2e085b74682d2dd92b3142e88e0d"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_40.lua",
+      "target": "Terrain/Nav1_40.lua",
+      "sourceSHA256": "3afc8a3b564dedb08738e1818cbad1abf2e15a265512461fbd132419ccb2da42",
+      "installedSHA256": "876fe73e95b31b22cc5853eb32d472433723ddc763d09737876140a788400896"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_41.lua",
+      "target": "Terrain/Nav1_41.lua",
+      "sourceSHA256": "1233000a4ff4e1e7259f359baf3ac17c34051c99af24c76c1065e13b00ddd46c",
+      "installedSHA256": "ab0801f924cc24f55f455978cd3bc67752bbe97a814556ab4fbdfd4b3be02ea7"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_42.lua",
+      "target": "Terrain/Nav1_42.lua",
+      "sourceSHA256": "5c5b5fa86db2e05fb9c3e32ca088bb719be3fb32e9cbe9581be1d954b754a738",
+      "installedSHA256": "cbce9df7c495432ac1f1ed78cf38b5b3812760c50524fd31fb49cc5615475436"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_43.lua",
+      "target": "Terrain/Nav1_43.lua",
+      "sourceSHA256": "3e89d1c61d162e284f6ebf577a392785b69552c0a35e24ecbe9f0aaabde25f42",
+      "installedSHA256": "b781d372169a257f892f3a9586bca1ecbf54ed1cbef092c0974bab04ea43457e"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_44.lua",
+      "target": "Terrain/Nav1_44.lua",
+      "sourceSHA256": "84d6df344f18f2bf461e4844c9a6905f92af107a8228367db6831049e8b186a3",
+      "installedSHA256": "df63014802a86f3ee8fb8c6005e9a0b996c976ac7c5ad28dfef83ac4cb67a39c"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_45.lua",
+      "target": "Terrain/Nav1_45.lua",
+      "sourceSHA256": "56806296c4406828e42915d074660626316f2da378acbe84c91126796147ff35",
+      "installedSHA256": "d150c7d53e3a29987aea317006b9b407a8654421cd7c4377844c145b45365273"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_46.lua",
+      "target": "Terrain/Nav1_46.lua",
+      "sourceSHA256": "bd5ce0ab2cb492eb4c4e76de78f267e2bd9005057c0649eed98bda63fcc6a2d3",
+      "installedSHA256": "5cc55a6084d94e3db9d395985e917d54ff8b33e641a439fe5314bcf55d3fe966"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_47.lua",
+      "target": "Terrain/Nav1_47.lua",
+      "sourceSHA256": "a7a10aa86387e4f0c2492946600cb4dceb74bab7912dd74d40cc740723c6467c",
+      "installedSHA256": "15c8da967ae6c26901bd346291cba5a479c86a2556892506b690082defca27b1"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_48.lua",
+      "target": "Terrain/Nav1_48.lua",
+      "sourceSHA256": "57a2fe4327f81880c23412c4496d0b4f025f0a0b60e8279193cd5dfbbd1c3322",
+      "installedSHA256": "f569672e39e44d8b0c942e52ac24cb2754a06112411367a7e2db1520e8d1aa47"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_49.lua",
+      "target": "Terrain/Nav1_49.lua",
+      "sourceSHA256": "c0c636c5c67739e29615fc3527c690d400ddf1459e46a5dad60b9eb36074b5e8",
+      "installedSHA256": "b26a14146346a33d2d6ac60b4eb81f99d9c54b2fa13c98fc67280440ba150a40"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_50.lua",
+      "target": "Terrain/Nav1_50.lua",
+      "sourceSHA256": "98a8e5f75337a5df3c9839ede9364569b90c7bef1769c70cba7513d405e5edea",
+      "installedSHA256": "262d56f5614e3026b09e4118c6ebad700dcbb762fb55470ebebac5ae030bd01c"
+    },
+    {
+      "source": "addon/Polestar_Nav_Kalimdor/Nav1_51.lua",
+      "target": "Terrain/Nav1_51.lua",
+      "sourceSHA256": "78afcd6b1cd4d92cf56b5a8405997c25d7b4f8986fadeca12bfb035911ee866d",
+      "installedSHA256": "b2dfa9bf16af97246ec7af5bca1f452c57a85d9a90dd30ce6cc41b6bc70d8e4b"
+    },
+    {
+      "source": "addon/Polestar_Nav/Nav/Nav2991.lua",
+      "target": "Terrain/Nav2991.lua",
+      "sourceSHA256": "038df04b895530c15580a76d2b518f83020a7d1e3882b7e3e11a7ee6bcad4769",
+      "installedSHA256": "4581254421b49a62045d3836b6f8ff7850ef9125229fa29c46b3a8f25514f90e"
+    },
+    {
+      "source": "addon/Polestar_Nav/Nav/Nav2991_1.lua",
+      "target": "Terrain/Nav2991_1.lua",
+      "sourceSHA256": "f6c95862b6cabcefca002a33a833262dd43297b4d7363b1c0023a4edede768de",
+      "installedSHA256": "d05bc6913e58922db7347dce37c0141d878141bde3258beaa64370044d22ee6d"
+    },
+    {
+      "source": "addon/Polestar_Nav/Nav/Nav2991_2.lua",
+      "target": "Terrain/Nav2991_2.lua",
+      "sourceSHA256": "e81b2c7de81a2d1e2db76204ed900077257d0a3afc574dc9d67ce466de7165b5",
+      "installedSHA256": "fec31fffce3429b536e40bc4341c764d4a8a43660a909525fc3696252d002da0"
+    },
+    {
+      "source": "addon/Polestar_Nav/Nav/Chokepoints.lua",
+      "target": "Terrain/Chokepoints.lua",
+      "sourceSHA256": "f6318a0152fd6e60c051478a9ae5e8e2466379b4bfaa2752aefba760048c86cf",
+      "installedSHA256": "b6b584d9716f7181cd03498f306a1a2ffa580d88fbe5880f6367a40a3686796b"
+    },
+    {
+      "source": "addon/Polestar_Nav/Routing/Costs.lua",
+      "target": "Terrain/Costs.lua",
+      "sourceSHA256": "1f2db2c7b476c883da70c1755975a1368da1db8f1cf2040e41516f2493af7c8e",
+      "installedSHA256": "3f976c3b08df06a84c2e5f222b7f7e8ce2b6768e821a78ee8d388d5787a3a6b0"
+    },
+    {
+      "source": "addon/Polestar_Nav/Routing/PathGrid.lua",
+      "target": "Terrain/PathGrid.lua",
+      "sourceSHA256": "6e3fbceabb9232591c06ded9e63b56250b5e7b56a50f85f3158f59b60a825892",
+      "installedSHA256": "1182570aac9bca44db4c27a6baa6f393931532b0e8cbc0555eb09c8a4d30236d"
+    },
+    {
+      "source": "addon/Polestar_Nav/Routing/Path.lua",
+      "target": "Terrain/Path.lua",
+      "sourceSHA256": "aeab209c021176ee4f36851a2ca78b9340f7724badea73db597ebe7290357649",
+      "installedSHA256": "0610425af6091cd1ac8280b73720d3210349b6ddcf6e6bb7a41792d8e8f079bc"
+    },
+    {
+      "source": "addon/Polestar_Nav/Routing/PathJobs.lua",
+      "target": "Terrain/PathJobs.lua",
+      "sourceSHA256": "c732ea66f967e82d3d46c8137726069677b45cf0673aacbaf249c1af3697072d",
+      "installedSHA256": "4f3ab6e704049ce7e793a550a828a83b5517614b6d421979ce3ed68036b9cf6d"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+	"generator": "ForeverRoads world-map build (Polestar Forge GPL toolchain)",
+	"format": 3,
+	"grid": {
+		"product": "wowf",
+		"build": "1.60.1.70862",
+		"builtAt": "2026-11-08T08:46:40.369Z",
+		"version": 4
+	},
+	"cells": 128,
+	"date": "2026-11-08",
+	"maps": {
+		"30": {
+			"chokepoints": 0,
+			"clusters": 35,
+			"floors": 38597,
+			"nodes": 3221,
+			"edges": 8844,
+			"components": 62,
+			"clampedCosts": 0,
+			"maxDegree": 45,
+			"rawBytes": 1016301,
+			"packedBytes": 564280,
+			"files": 3,
+			"hubs": 0,
+			"classes": {
+				"normal": 397732,
+				"road": 11636,
+				"gentle": 19859,
+				"steep": 137395,
+				"indoor": 13816,
+				"city": 0,
+				"allianceHub": 0,
+				"hordeHub": 0
+			},
+			"roads": {
+				"strong": 15696,
+				"weak": 19499,
+				"pieces": 37,
+				"ends": 323,
+				"bridges": 13,
+				"bridgedColumns": 525,
+				"refused": 27
+			},
+			"areas": 3
+		},
+		"489": {
+			"chokepoints": 0,
+			"clusters": 16,
+			"floors": 9541,
+			"nodes": 914,
+			"edges": 2727,
+			"components": 26,
+			"clampedCosts": 0,
+			"maxDegree": 30,
+			"rawBytes": 297846,
+			"packedBytes": 151637,
+			"files": 2,
+			"hubs": 0,
+			"classes": {
+				"normal": 221536,
+				"road": 1027,
+				"gentle": 4175,
+				"steep": 33712,
+				"indoor": 1199,
+				"city": 0,
+				"allianceHub": 0,
+				"hordeHub": 0
+			},
+			"roads": {
+				"strong": 1177,
+				"weak": 1684,
+				"pieces": 4,
+				"ends": 40,
+				"bridges": 0,
+				"bridgedColumns": 0,
+				"refused": 8
+			},
+			"areas": 24
+		},
+		"529": {
+			"chokepoints": 2,
+			"clusters": 16,
+			"floors": 11825,
+			"nodes": 1155,
+			"edges": 3211,
+			"components": 20,
+			"clampedCosts": 0,
+			"maxDegree": 36,
+			"rawBytes": 370325,
+			"packedBytes": 199537,
+			"files": 2,
+			"hubs": 0,
+			"classes": {
+				"normal": 208575,
+				"road": 0,
+				"gentle": 6272,
+				"steep": 52244,
+				"indoor": 446,
+				"city": 0,
+				"allianceHub": 0,
+				"hordeHub": 0
+			},
+			"roads": {
+				"strong": 0,
+				"weak": 0,
+				"pieces": 0,
+				"ends": 0,
+				"bridges": 0,
+				"bridgedColumns": 0,
+				"refused": 0
+			},
+			"areas": 10
+		},
+		"2997": {
+			"chokepoints": 1,
+			"clusters": 25,
+			"floors": 71663,
+			"nodes": 864,
+			"edges": 2153,
+			"components": 79,
+			"clampedCosts": 0,
+			"maxDegree": 24,
+			"rawBytes": 732496,
+			"packedBytes": 312320,
+			"files": 2,
+			"hubs": 0,
+			"classes": {
+				"normal": 204621,
+				"road": 6756,
+				"gentle": 4057,
+				"steep": 15970,
+				"indoor": 207,
+				"city": 0,
+				"allianceHub": 0,
+				"hordeHub": 0
+			},
+			"roads": {
+				"strong": 3858,
+				"weak": 2108,
+				"pieces": 17,
+				"ends": 75,
+				"bridges": 8,
+				"bridgedColumns": 546,
+				"refused": 0
+			}
+		}
+	},
+	"files": {
+		"Nav/Nav30.lua": "46511c100839101c9566a75a8f2bca580a7018f8794f1f7831749e94b79093e3",
+		"Nav/Nav30_1.lua": "2e48b898ca6ac436e79724888a64eb1a30ba8aa78cd0039dfc24915447970928",
+		"Nav/Nav30_2.lua": "00179ea2cae772d1c05fd501de5cfb0bef8de9c6fb18717ef829a76bcbe77284",
+		"Nav/Nav489.lua": "527c8c9bccc06490faa7ada56db3a5f6a871fc9f44566ccc61ea39afd3907494",
+		"Nav/Nav489_1.lua": "859ad40148e647dda8f88c36624d65fa6961f24b4adb6aaec685aefd99dc7c97",
+		"Nav/Nav529.lua": "12bad315d536b21c20f8d12d1242328664b4fa535d88896661b29bb275ac27cb",
+		"Nav/Nav529_1.lua": "4f25670e933b358914da12ff8c62710937651f9915307bbf144f5490fe931441",
+		"Nav/Nav2997.lua": "daa715bd3e1c2b8002b2634f82284ea4265dceaca324f5b7214f7583e856d0b7",
+		"Nav/Nav2997_1.lua": "c8fce3ce2dc9c1375fdeab1ed2c436b50378ade44b7e64000956bfc28554ec3c",
+		"Nav/Chokepoints.lua": "c15efe984f681edeef5aa56d44f5bd42c740cb4a67e2a33bd6ffbb22f925de1f"
+	}
+}

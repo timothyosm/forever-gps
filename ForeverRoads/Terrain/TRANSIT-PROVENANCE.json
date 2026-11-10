@@ -1,0 +1,11 @@
+{
+  "revision": "660e14a81724560abba1d619d9e791b72b136f86",
+  "project": "https://github.com/cjber/shortest-path-forever",
+  "license": "GPL-3.0-or-later",
+  "files": {
+    "Data/Routes.lua": "54b184b301a0045afc28f80638e1905f25783a07e786346c5ffdc3d5d32a52ce",
+    "Data/Portals.lua": "57c24d42cdecdf29976554e7d9388b1532d9fa55b955bd195d614fae044c8d30",
+    "Data/Taxi.lua": "96838a387802e70157454431eae1b49d0896703ea4faf14e461a22b604941d97"
+  },
+  "tram": "Public thresholds from AreaTrigger; 150-second estimate includes an average wait and ride."
+}

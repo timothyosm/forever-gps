@@ -1,0 +1,66 @@
+Forever GPS 2.1.17 — manual in-game check
+
+These checks are performed by you. The automated tests run outside WoW.
+
+1. Start WoW normally, or type /reload if it is already open.
+   Type /froads. Scroll the zone list: it should include the original zones,
+   all six capitals, Mount Hyjal, Riverglades, Shen'dralas, Zephras Isle,
+   Darkspear Islands and the three battlegrounds. Zephras has two map IDs.
+
+2. Place a native map pin on nearby reachable ground. You can select an
+   existing pin or type /froads pin to route to it. Move the pin and
+   confirm the route updates. Select an active quest marker and confirm the
+   route switches to that quest. Removing an active pin clears its route.
+   Once the search finishes, look for a gold dotted trail on the world
+   map and its nearby portion on the minimap. Look for the travel estimate
+   and steps in the world map’s upper-left corner. Walk along a short
+   section and check that the estimate decreases.
+   For a longer trip, look for “Planning route…” until the itinerary is
+   ready. The first itinerary should already include any selected rides.
+   On a route with a ride, zoom between the zone, continent, and Azeroth
+   maps to check that light-blue dots mark the connection.
+   Match each transport icon to its arrival stop and the gold boot to the
+   end of the run on the world map. On the minimap, look for flight, boat
+   and zeppelin arrival icons alongside the dotted trail.
+   If you are in Stonetalon, also try:
+   /froads way stonetalon 46.2 58.5 Sun Rock Retreat
+
+3. Close and reopen the map, and try a different nearby destination.
+   Check that guidance stays responsive and that the old route is replaced.
+   /froads pause should hide guidance; /froads resume should restore it.
+   Left-click the minimap button to open settings; right-click pauses/resumes.
+
+4. Run /froads perf with the map open, then again after closing it.
+   It prints map drawing, terrain search and transport timings separately.
+   Try the same distant quest or pin twice. Check the itinerary elapsed
+   time and cache counters in /froads perf.
+   After a route is found and you stand still, redraw counts should stay
+   steady. Occasional peaks do not describe sustained FPS; also note whether
+   the game feels smooth while walking and choosing a new destination.
+
+5. If something fails, report:
+   - Your zone, approximate map coordinates and destination.
+   - Whether the world map, minimap or both are affected.
+   - For lag, use /froads perf start, repeat the slow action, then use
+     /froads perf stop and /froads perf log. Share the resulting log text.
+   - Any visible error message, and whether pausing guidance changes the lag.
+
+Use /froads follow to return to the tracked quest after testing.
+
+Optional while playing normally: open a flight master and check the learned
+flight stop count in /froads. Set a distant destination and use /froads status
+to see any flights and crossings. Consecutive flights appear as one step
+and one dotted connector to the final flight master. Select flights and board boats, zeppelins
+and the tram manually. While flying, select a quest near the landing and
+check for the onward trail and an “after landing” estimate on the world map.
+Check that walking guidance resumes from your position when you land.
+For a boat or zeppelin in the itinerary, open the destination zone map
+during the crossing and check for the trail from the exit and an
+“after docking” estimate.
+The maps draw the current walking leg. Battleground and introductory-island
+entry uses the game's queue or entrance.
+
+Offline evidence: all 55 native zone-map IDs are included, every packed
+terrain block decompresses, and sampled routes render within all 55 maps in
+the Lua test harness. This does not claim that all locations were walked
+or FPS was measured in the live client. Your results complete the live check.

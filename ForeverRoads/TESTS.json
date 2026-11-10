@@ -1,0 +1,664 @@
+{
+  "version": "2.1.17",
+  "package": {
+    "version": "2.1.17",
+    "loadMS": 133.339542,
+    "passed": 10,
+    "suites": [
+      "missing terrain chunks are detected before navigation starts",
+      "manifest loads all modules once; UI exposes all 55 maps",
+      "Stonetalon command starts an asynchronous search",
+      "both maps render the real terrain path and the world map shows ETA and steps",
+      "new destination cancels old search; pause cancels; resume restarts",
+      "combat defers new jobs and suspends a running search",
+      "unreadable position cancels search and recovers when coordinates return",
+      "bounded performance log, adaptive frame budget and no same-continent restart",
+      "real package routes and renders within all 55 zone maps",
+      "vertical progress distinguishes floors; cross-continent distance is infinite"
+    ],
+    "maps": [
+      {
+        "id": 1411,
+        "name": "Durotar",
+        "frames": 12,
+        "mapLines": 1
+      },
+      {
+        "id": 1412,
+        "name": "Mulgore",
+        "frames": 28,
+        "mapLines": 1
+      },
+      {
+        "id": 1413,
+        "name": "The Barrens",
+        "frames": 42,
+        "mapLines": 1
+      },
+      {
+        "id": 1416,
+        "name": "Alterac Mountains",
+        "frames": 47,
+        "mapLines": 6
+      },
+      {
+        "id": 1417,
+        "name": "Arathi Highlands",
+        "frames": 33,
+        "mapLines": 60
+      },
+      {
+        "id": 1418,
+        "name": "Badlands",
+        "frames": 14,
+        "mapLines": 4
+      },
+      {
+        "id": 1419,
+        "name": "Blasted Lands",
+        "frames": 37,
+        "mapLines": 4
+      },
+      {
+        "id": 1420,
+        "name": "Tirisfal Glades",
+        "frames": 31,
+        "mapLines": 2
+      },
+      {
+        "id": 1421,
+        "name": "Silverpine Forest",
+        "frames": 44,
+        "mapLines": 2
+      },
+      {
+        "id": 1422,
+        "name": "Western Plaguelands",
+        "frames": 32,
+        "mapLines": 2
+      },
+      {
+        "id": 1423,
+        "name": "Eastern Plaguelands",
+        "frames": 23,
+        "mapLines": 2
+      },
+      {
+        "id": 1424,
+        "name": "Hillsbrad Foothills",
+        "frames": 11,
+        "mapLines": 2
+      },
+      {
+        "id": 1425,
+        "name": "The Hinterlands",
+        "frames": 22,
+        "mapLines": 2
+      },
+      {
+        "id": 1426,
+        "name": "Dun Morogh",
+        "frames": 15,
+        "mapLines": 1
+      },
+      {
+        "id": 1427,
+        "name": "Searing Gorge",
+        "frames": 40,
+        "mapLines": 11
+      },
+      {
+        "id": 1428,
+        "name": "Burning Steppes",
+        "frames": 33,
+        "mapLines": 10
+      },
+      {
+        "id": 1429,
+        "name": "Elwynn Forest",
+        "frames": 41,
+        "mapLines": 3
+      },
+      {
+        "id": 1430,
+        "name": "Deadwind Pass",
+        "frames": 32,
+        "mapLines": 26
+      },
+      {
+        "id": 1431,
+        "name": "Duskwood",
+        "frames": 53,
+        "mapLines": 8
+      },
+      {
+        "id": 1432,
+        "name": "Loch Modan",
+        "frames": 15,
+        "mapLines": 3
+      },
+      {
+        "id": 1433,
+        "name": "Redridge Mountains",
+        "frames": 35,
+        "mapLines": 4
+      },
+      {
+        "id": 1434,
+        "name": "Stranglethorn Vale",
+        "frames": 40,
+        "mapLines": 5
+      },
+      {
+        "id": 1435,
+        "name": "Swamp of Sorrows",
+        "frames": 58,
+        "mapLines": 3
+      },
+      {
+        "id": 1436,
+        "name": "Westfall",
+        "frames": 31,
+        "mapLines": 2
+      },
+      {
+        "id": 1437,
+        "name": "Wetlands",
+        "frames": 18,
+        "mapLines": 3
+      },
+      {
+        "id": 1438,
+        "name": "Teldrassil",
+        "frames": 16,
+        "mapLines": 1
+      },
+      {
+        "id": 1439,
+        "name": "Darkshore",
+        "frames": 26,
+        "mapLines": 1
+      },
+      {
+        "id": 1440,
+        "name": "Ashenvale",
+        "frames": 16,
+        "mapLines": 2
+      },
+      {
+        "id": 1441,
+        "name": "Thousand Needles",
+        "frames": 17,
+        "mapLines": 1
+      },
+      {
+        "id": 1442,
+        "name": "Stonetalon Mountains",
+        "frames": 29,
+        "mapLines": 7
+      },
+      {
+        "id": 1443,
+        "name": "Desolace",
+        "frames": 13,
+        "mapLines": 2
+      },
+      {
+        "id": 1444,
+        "name": "Feralas",
+        "frames": 18,
+        "mapLines": 1
+      },
+      {
+        "id": 1445,
+        "name": "Dustwallow Marsh",
+        "frames": 30,
+        "mapLines": 2
+      },
+      {
+        "id": 1446,
+        "name": "Tanaris",
+        "frames": 17,
+        "mapLines": 1
+      },
+      {
+        "id": 1447,
+        "name": "Azshara",
+        "frames": 8,
+        "mapLines": 3
+      },
+      {
+        "id": 1448,
+        "name": "Felwood",
+        "frames": 36,
+        "mapLines": 1
+      },
+      {
+        "id": 1449,
+        "name": "Un'Goro Crater",
+        "frames": 33,
+        "mapLines": 5
+      },
+      {
+        "id": 1450,
+        "name": "Moonglade",
+        "frames": 32,
+        "mapLines": 3
+      },
+      {
+        "id": 1451,
+        "name": "Silithus",
+        "frames": 15,
+        "mapLines": 8
+      },
+      {
+        "id": 1452,
+        "name": "Winterspring",
+        "frames": 40,
+        "mapLines": 1
+      },
+      {
+        "id": 1453,
+        "name": "Stormwind City",
+        "frames": 36,
+        "mapLines": 3
+      },
+      {
+        "id": 1454,
+        "name": "Orgrimmar",
+        "frames": 63,
+        "mapLines": 3
+      },
+      {
+        "id": 1455,
+        "name": "Ironforge",
+        "frames": 100,
+        "mapLines": 125
+      },
+      {
+        "id": 1456,
+        "name": "Thunder Bluff",
+        "frames": 45,
+        "mapLines": 20
+      },
+      {
+        "id": 1457,
+        "name": "Darnassus",
+        "frames": 123,
+        "mapLines": 4
+      },
+      {
+        "id": 1458,
+        "name": "Undercity",
+        "frames": 55,
+        "mapLines": 15
+      },
+      {
+        "id": 1459,
+        "name": "Alterac Valley",
+        "frames": 31,
+        "mapLines": 2
+      },
+      {
+        "id": 1460,
+        "name": "Warsong Gulch",
+        "frames": 23,
+        "mapLines": 7
+      },
+      {
+        "id": 1461,
+        "name": "Arathi Basin",
+        "frames": 19,
+        "mapLines": 3
+      },
+      {
+        "id": 2482,
+        "name": "Mount Hyjal",
+        "frames": 35,
+        "mapLines": 4
+      },
+      {
+        "id": 2521,
+        "name": "Zephras Isle",
+        "frames": 5,
+        "mapLines": 1
+      },
+      {
+        "id": 2524,
+        "name": "Darkspear Islands",
+        "frames": 80,
+        "mapLines": 13
+      },
+      {
+        "id": 2548,
+        "name": "Riverglades",
+        "frames": 10,
+        "mapLines": 2
+      },
+      {
+        "id": 2652,
+        "name": "Shen'dralas",
+        "frames": 43,
+        "mapLines": 2
+      },
+      {
+        "id": 2665,
+        "name": "Zephras Isle",
+        "frames": 1,
+        "mapLines": 1
+      }
+    ],
+    "firstSearchFrames": 63,
+    "peakSimulatedFrameMS": 6.14104199999943,
+    "searchPeakMS": 6.129874999999629,
+    "tickerPeakMS": 0.3458330000003116,
+    "liveGameVerified": false
+  },
+  "travel": {
+    "version": "2.1.17",
+    "checks": [
+      {
+        "case": "sepulcher -> brill",
+        "frames": 81,
+        "distance": 2508.842208516152,
+        "peakMS": 4.466958000000076
+      },
+      {
+        "case": "brill -> sepulcher",
+        "frames": 37,
+        "distance": 2496.1091342847567,
+        "peakMS": 3.7577090000002755
+      },
+      {
+        "case": "Horde-only zeppelin excluded for Alliance",
+        "passed": true
+      },
+      {
+        "case": "early-stopped transport choice matches exhaustive settled costs",
+        "passed": true
+      },
+      {
+        "case": "Ratchet -> Booty Bay, automatic leg progression through simulated loading screen",
+        "searchFrames": 42,
+        "transports": [
+          "Take the boat to Booty Bay"
+        ],
+        "legs": 3,
+        "peakMS": 4.08125000000048
+      },
+      {
+        "case": "Destination map shows the exact gold trail before the boat arrives",
+        "passed": true
+      },
+      {
+        "case": "Boat prepares its exit walk with the map closed and reroutes from the dock during a loading gap",
+        "passed": true
+      },
+      {
+        "case": "Battleground entry requires the game queue; no fabricated crossing",
+        "passed": true
+      },
+      {
+        "case": "Darnassus -> Ruttheran portal on the same continent",
+        "passed": true,
+        "frames": 80,
+        "peakMS": 6.033958999999811
+      },
+      {
+        "case": "flight map imports current and reachable nodes only, for this character and faction",
+        "passed": true
+      },
+      {
+        "case": "known endpoints cannot use an unlearned connecting flight master",
+        "searchFrames": 210,
+        "peakMS": 4.928792000001181
+      },
+      {
+        "case": "known Sun Rock Retreat flight beats walking and waits for actual landing",
+        "searchFrames": 14,
+        "peakMS": 2.712457999999529
+      },
+      {
+        "case": "Connecting flights show one destination and advance on intermediate or final landing",
+        "passed": true
+      },
+      {
+        "case": "Actual selected taxi landing supports quest planning and retargeting in flight",
+        "passed": true
+      },
+      {
+        "case": "A different actual landing replans from the readable player position",
+        "passed": true
+      },
+      {
+        "case": "same trip walks when departure has not been learned",
+        "searchFrames": 21,
+        "peakMS": 2.9292919999992506
+      },
+      {
+        "case": "First published itinerary includes the flight after a full walking comparison",
+        "passed": true
+      },
+      {
+        "case": "Stonetalon to Silverpine combines known flights with the Orgrimmar\u2013Tirisfal zeppelin",
+        "rides": "flight,flight,zeppelin,flight",
+        "searchFrames": 163,
+        "peakMS": 6.61845800000016
+      },
+      {
+        "case": "Silverpine to Stonetalon routes to the Tirisfal tower for the reverse crossing",
+        "rides": "flight,zeppelin,flight,flight",
+        "searchFrames": 98,
+        "peakMS": 3.0093749999995367
+      },
+      {
+        "case": "Zeppelin preserves the exit tower as the planning origin when the goal changes on board",
+        "passed": true
+      },
+      {
+        "case": "Deeprun Tram is an Alliance ride between its outdoor entrances",
+        "searchFrames": 38,
+        "peakMS": 4.982832999999687
+      },
+      {
+        "case": "Native pin from screenshot draws a walking route from Stonetalon to Durotar",
+        "searchFrames": 108,
+        "peakMS": 3.469334000000046
+      },
+      {
+        "case": "Pin selection, native projection, removal, pause and return to quest tracking",
+        "passed": true
+      },
+      {
+        "case": "Selecting a quest marker replaces a pin and follows delayed objective and turn-in coordinates",
+        "passed": true
+      },
+      {
+        "case": "Arrival cache reuses exact settled costs, invalidates on route inputs and evicts the oldest destination",
+        "passed": true
+      },
+      {
+        "case": "A quick ride timeout carries its settled costs into the final comparison",
+        "passed": true
+      }
+    ],
+    "liveGameVerified": false
+  },
+  "legacy": {
+    "passed": 21,
+    "suites": [
+      "722 Lua routes match the tested JavaScript prototype (distance and optimal weighted cost)",
+      "partial-edge snapping, route closure and disconnected cases",
+      "242 Stonetalon routes match Dijkstra, including both road preferences",
+      "current Windshear locations route to all 11 Stonetalon destinations; estimated spurs are explicit",
+      "off-road quest pins retain the full road route and expose estimated-approach warnings",
+      "walking progress and turn target advance consistently",
+      "live map coordinate calibration matches all four stored zone frames",
+      "quest objective and completed-quest turn-in resolution, skipping quest offers",
+      "live navigation reroutes after deviation and on zone changes; combat defers planning",
+      "Stonetalon live-position simulation, tracked quests, and cross-continent combat deferral",
+      "arrival detection and recording are character-local and do not invent road edges",
+      "map and minimap clipping keep route strokes inside their visible regions",
+      "real event controller initializes character-only settings, commands and tracked quests",
+      "pause survives quest changes, and leaving coverage clears stale guidance",
+      "real UI modules create controls, draw both maps, handle Alt-click, pause and resume",
+      "Stonetalon settings, quick destinations, command aliases and both map overlays",
+      "world-map routes and road networks never bleed across continents, even with overlapping coordinates",
+      "explored-map artwork stays below the route, including native level changes",
+      "unchanged routes do not redraw map lines or minimap lines; moving and toggling still refresh",
+      "minimap cache recovers from unavailable view radius and map cache follows canvas resizing",
+      "all Lua modules compile and the TOC loads every module in order"
+    ],
+    "luaVersion": "5.1",
+    "referenceRoutes": 722,
+    "stonetalonOptimalityComparisons": 286,
+    "supportedMaps": [
+      1420,
+      1421,
+      1424,
+      1442
+    ],
+    "liveGameVerified": false
+  },
+  "integrity": {
+    "clientMapIDsComplete": true,
+    "zoneMapCount": 55,
+    "terrainMaps": [
+      {
+        "map": 0,
+        "fields": {
+          "graph": 526,
+          "floor": 480,
+          "arc": 411,
+          "height": 526,
+          "class": 481,
+          "area": 186,
+          "grid": 526
+        },
+        "blocks": 4451,
+        "decodedBytes": 41169291
+      },
+      {
+        "map": 1,
+        "fields": {
+          "graph": 716,
+          "floor": 641,
+          "arc": 589,
+          "height": 718,
+          "class": 650,
+          "area": 170,
+          "grid": 718
+        },
+        "blocks": 5820,
+        "decodedBytes": 51803112
+      },
+      {
+        "map": 30,
+        "fields": {
+          "graph": 35,
+          "floor": 26,
+          "height": 35,
+          "class": 27,
+          "area": 2,
+          "grid": 35
+        },
+        "blocks": 173,
+        "decodedBytes": 1016301
+      },
+      {
+        "map": 489,
+        "fields": {
+          "graph": 16,
+          "floor": 8,
+          "height": 16,
+          "class": 12,
+          "area": 3,
+          "grid": 16
+        },
+        "blocks": 74,
+        "decodedBytes": 297846
+      },
+      {
+        "map": 529,
+        "fields": {
+          "graph": 16,
+          "floor": 12,
+          "height": 16,
+          "class": 16,
+          "area": 2,
+          "grid": 16
+        },
+        "blocks": 83,
+        "decodedBytes": 370325
+      },
+      {
+        "map": 2991,
+        "fields": {
+          "graph": 30,
+          "floor": 31,
+          "arc": 26,
+          "height": 31,
+          "class": 29,
+          "area": 11,
+          "grid": 31
+        },
+        "blocks": 246,
+        "decodedBytes": 1916924
+      },
+      {
+        "map": 2997,
+        "fields": {
+          "graph": 25,
+          "floor": 23,
+          "height": 25,
+          "class": 23,
+          "grid": 25
+        },
+        "blocks": 149,
+        "decodedBytes": 732496
+      }
+    ],
+    "seconds": 0.24981608300000002,
+    "allCompressedBlocksValid": true,
+    "liveGameVerified": false
+  },
+  "smoothing": {
+    "roundedRightAngle": true,
+    "navigationUnchanged": true,
+    "endpointsAndProgressPreserved": true,
+    "noRoundingAcrossGapsFloorsOrTransport": true,
+    "metricBoundsChecked": 45871,
+    "randomRoutes": 180,
+    "maximumWorldDeviationPixels": 1.25,
+    "maximumMinimapDeviationPixels": 0.65,
+    "stress": {
+      "originalSegments": 999,
+      "displaySegments": 999,
+      "corners": 0,
+      "buildMS": 2.3713750000000644
+    },
+    "liveGameControlled": false
+  },
+  "goldTrail": {
+    "version": "2.0.2",
+    "checks": [
+      "world spacing stays on phase across joins and kinds, and size stays fixed on zoom",
+      "the visible beads track the smoothed curve at ten-pixel arc intervals",
+      "world clips long trails to the visible viewport, including when zoomed and panned",
+      "a short leg near the map edge still shows one fully visible bead",
+      "estimated legs remain separate and foreign continents do not bleed into the map",
+      "minimap clips dot bounds and reuses phase and textures while moving or rotating",
+      "transport dots hold their size on zone, continent, world and minimap views",
+      "flight connections draw a single connector and final arrival icon on both maps",
+      "local game texture has alpha and the approved gold and bronze colors",
+      "all eight packaged step icons are transparent 32-bit game textures"
+    ],
+    "liveGameVerified": false
+  },
+  "flatLiquidParser": {
+    "passed": 3,
+    "failed": 0,
+    "command": "cargo test --manifest-path work/world-toolchain/forge-navbuild/Cargo.toml --test forever_flat_liquid --offline"
+  },
+  "liveGameVerified": false
+}

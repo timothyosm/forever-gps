@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+**/target/
+/outputs/
+/work/world-addon/
+/work/polestar/
+/work/shortest-path-forever/
+/work/wowdbdefs/
+/work/world-map-bake/data/sources/
+/work/world-map-bake/data/local/
+/work/world-map-bake/layers/roads/
+/work/road-demo/UiMap*-70862.csv
+/work/road-demo/world-*-tests.json
+/work/road-demo/world-*-performance.json
+/work/road-demo/world-engine-smoke.json

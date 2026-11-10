@@ -1,0 +1,22 @@
+[package]
+name = "forge-navbuild"
+description = "Builds the navigation grid (data/local/nav4) from the installed WoW client's geometry."
+version = "0.2.0"
+edition = "2021"
+license = "GPL-3.0-only"
+rust-version = "1.87"
+repository = "https://github.com/fitzforge/polestar"
+homepage = "https://github.com/fitzforge/polestar"
+publish = false
+
+[dependencies]
+forge-gamedata = { path = "../../polestar/rust/crates/forge-gamedata" }
+forge-core = { path = "../../polestar/rust/crates/forge-core" }
+rayon = "1"
+rustc-hash = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+# The system's C zlib: gzip bytes identical to the grids built so far.
+flate2 = { version = "1", default-features = false, features = ["zlib-rs"] }
+libm = "0.2"
+parking_lot = "0.12"
